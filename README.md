@@ -118,10 +118,22 @@ Using Kali Linux:
 
 ---
 
-## 📖 References
+## 📚 Wazuh References
+
+Wazuh Official Website
 
 Wazuh Documentation
 
-DVWA Setup Guide
+Wazuh GitHub Repository
 
-XAMPP for Windows
+Wazuh Installation Guide
+
+Wazuh Agent Documentation
+
+File Integrity Monitoring (FIM) with Wazuh
+
+Log Data Collection
+
+Threat Detection and Response
+
+Wazuh Forum (Community Support)
